@@ -1,0 +1,10 @@
+.navbar.scrolled {
+    background-color: #343a40 !important;
+    transition: background-color 200ms linear;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+section {
+    padding-top: 70px;
+    margin-top: -70px;
+}
