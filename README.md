@@ -1,1 +1,0 @@
-# Bootstrap jQuery Deep Dive
